@@ -1,0 +1,17 @@
+{
+    "Blueprint": "BP_",
+    "StaticMesh": "SM_",
+    "Material": "M_",
+    "MaterialInstanceConstant": "MI_",
+    "MaterialFunction": "MF_",
+    "ParticleSystem": "PS_",
+    "SoundCue": "SC_",
+    "SoundWave": "S_",
+    "Texture2D": "T_",
+    "WidgetBlueprint": "WBP_",
+    "MorphTarget": "MT_",
+    "SkeletalMesh": "SK_",
+    "RenderTarget": "RT_",
+    "TextureRenderTarget2D": "TRT_",
+    "EditorUtilityBlueprint": "UBP_"
+}
